@@ -1,0 +1,20 @@
+# Samara Stack · مكتبة المطوّر العربي
+
+موارد وأدوات عربية للمطوّر: أداة ذكاء اصطناعي مجانية كل يوم، ومكتبة موارد مجانية أو رسمية، ومسارات تعلّم مرتبة، ودليل لما يحتاجه من يبني منتجًا للمستخدم العربي (RTL، خطوط عربية، بوابات دفع إقليمية).
+
+**الموقع:** [samarastack.com](https://samarastack.com) · **على X:** [@EngMSamara](https://x.com/EngMSamara)
+
+## ما هنا
+
+| المستودع | الوصف |
+|---|---|
+| [awesome-arabic-dev-resources](https://github.com/samarastack/awesome-arabic-dev-resources) | قائمة منتقاة من الموارد المجانية أو الرسمية لتعلّم البرمجة والذكاء الاصطناعي وبناء المنتجات، مع صندوق أدوات عربي. مفتوحة للمساهمات (CC0). |
+
+## كيف تساهم
+
+- مورد جديد؟ افتح [طلب إضافة](https://github.com/samarastack/awesome-arabic-dev-resources/issues/new/choose) أو Pull Request بعد قراءة [دليل المساهمة](https://github.com/samarastack/awesome-arabic-dev-resources/blob/main/CONTRIBUTING.md).
+- رابط معطّل؟ بلّغ عنه في Issues، وسيُصحَّح أو يُحذف.
+
+---
+
+**كيف نختار:** مجاني، أو يملك جزءًا مجانيًا واضحًا، أو مصدر رسمي — ووصف صادق في سطر واحد، بلا مبالغة.
